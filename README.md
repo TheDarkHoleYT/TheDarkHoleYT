@@ -33,7 +33,7 @@
 <br/>
 
 <p align="center">
-  <code>root@xenonwraith:~$ ./about.py</code>
+  <code>root@xenonwraith:~$ whoami</code>
 </p>
 
 <h2 align="center">◈ About Me</h2>
@@ -125,5 +125,5 @@ root@xenonwraith:~$ whoami --skills --format=json
 <img src="https://raw.githubusercontent.com/TheDarkHoleYT/TheDarkHoleYT/main/divider.svg" width="100%" height="4"/>
 
 <p align="center">
-  <code>root@xenonwraith:~$ echo "check back soon — repositories pending security review"</code>
+  <code>root@xenonwraith:~$ echo "check back soon. repositories pending security review"</code>
 </p>
