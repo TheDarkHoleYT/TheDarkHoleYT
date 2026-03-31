@@ -40,7 +40,7 @@
 
 <p align="center">
   IT professional fusing <b>AI</b> and <b>Cybersecurity</b> to build tools that defend, detect, and outthink threats.<br/>
-  From neural networks to exploit analysis — I speak both sides of the stack.<br/>
+  From neural networks to exploit analysis I speak both sides of the stack.<br/>
   Currently based in <b>Perth, WA, Australia</b> and open to international opportunities.
 </p>
 
