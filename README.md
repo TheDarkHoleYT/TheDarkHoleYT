@@ -32,10 +32,6 @@
 
 <br/>
 
-<p align="center">
-  <code>root@xenonwraith:~$ whoami</code>
-</p>
-
 <h2 align="center">◈ About Me</h2>
 
 <p align="center">
