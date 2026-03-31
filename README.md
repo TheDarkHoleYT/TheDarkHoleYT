@@ -105,7 +105,7 @@ root@xenonwraith:~$ whoami --skills --format=json
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TheDarkHoleYT/xenonwraith/main/divider.svg" width="100%" height="4"/>
+<img src="https://raw.githubusercontent.com/TheDarkHoleYT/TheDarkHoleYT/main/divider.svg" width="100%" height="4"/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -122,7 +122,7 @@ root@xenonwraith:~$ whoami --skills --format=json
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TheDarkHoleYT/xenonwraith/main/divider.svg" width="100%" height="4"/>
+<img src="https://raw.githubusercontent.com/TheDarkHoleYT/TheDarkHoleYT/main/divider.svg" width="100%" height="4"/>
 
 <p align="center">
   <code>root@xenonwraith:~$ echo "check back soon — repositories pending security review"</code>
