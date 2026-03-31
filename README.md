@@ -28,7 +28,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/TheDarkHoleYT/xenonwraith/main/divider.svg" width="100%" height="4"/>
+<img src="https://raw.githubusercontent.com/TheDarkHoleYT/TheDarkHoleYT/main/divider.svg" width="100%" height="4"/>
 
 <br/>
 
