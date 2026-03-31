@@ -80,7 +80,7 @@ root@xenonwraith:~$ whoami --skills --format=json
 
 {
   "user": "xenonwraith",
-  "role": "ai_cybersecurity_developer",
+  "role": "junior_cybersecurity_analyst",
   "system": "Embedded Linux / Windows / macOS",
   "location": "Perth, WA, Australia",
   "status": "available_for_work",
