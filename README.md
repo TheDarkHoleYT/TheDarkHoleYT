@@ -40,7 +40,7 @@
 
 <p align="center">
   IT professional fusing <b>AI</b> and <b>Cybersecurity</b> to build tools that defend, detect, and outthink threats.<br/>
-  From neural networks to exploit analysis I speak both sides of the stack.<br/>
+  From neural networks to exploit analysis — I speak both sides of the stack.<br/>
   Currently based in <b>Perth, WA, Australia</b> and open to international opportunities.
 </p>
 
@@ -117,7 +117,7 @@ root@xenonwraith:~$ whoami --skills --format=json
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TheDarkHoleYT&hide_border=true&ring=e53e3e&fire=e53e3e&currStreakLabel=e53e3e&background=060608&stroke=991b1b&dates=8892a4&sideLabels=8892a4" />
+  <img src="https://streak-stats.demolab.com?user=TheDarkHoleYT&hide_border=true&ring=e53e3e&fire=e53e3e&currStreakLabel=e53e3e&currStreakNum=e53e3e&sideNums=ffffff&background=060608&stroke=991b1b&dates=8892a4&sideLabels=8892a4" />
 </div>
 
 <br/>
